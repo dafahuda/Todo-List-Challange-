@@ -20,10 +20,10 @@ function tambah() {
     text.value = "";
 }
 
-// function toggle(el) {
-//     el.classList.toggle('done')
-// };
+function toggle(el) {
+    el.classList.toggle('done')
+};
 
-// function del(el) {
-//     el.parentElement.remove()
-// };
+function del(el) {
+    el.parentElement.remove()
+};
