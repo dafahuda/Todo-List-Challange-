@@ -1,0 +1,7 @@
+.done {
+    text-decoration: line-through;
+}
+
+.done:hover {
+    opacity: 0.5;
+}
